@@ -15,7 +15,7 @@ A Retrieval-Augmented Generation (RAG)-based chatbot built using **LangChain**, 
 
 ---
 
-##Tech Stack
+##  Tech Stack
 
 -Streamlit
 -LangChain
