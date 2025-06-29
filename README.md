@@ -15,9 +15,20 @@ A Retrieval-Augmented Generation (RAG)-based chatbot built using **LangChain**, 
 
 ---
 
+##Tech Stack
+
+-Streamlit
+-LangChain
+-Groq LLM (LLaMA3)
+-HuggingFace Embeddings
+-PyPDFLoader
+-FAISS
+
+
 ##  Setup Instructions
 
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/your-username/Medical_Chatbot.git
 cd Medical_Chatbot
+
